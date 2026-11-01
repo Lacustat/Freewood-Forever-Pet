@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Freewood |cffc89b3cPet|r
+## Notes: Records your hunter companions with stats and abilities, with export and import.
+## Notes-deDE: Erfasst deine Jäger-Begleiter mit Werten und Fähigkeiten, mit Export und Import.
+## Author: Dominik
+## Version: 0.3.2
+## Dependencies: Freewood-Core
+## IconTexture: Interface\Icons\Ability_Hunter_BeastTaming
+
+Locales.lua
+Pet.lua
+Families.lua
+PetUI.lua
