@@ -6,6 +6,7 @@
 ## Version: 0.3.2
 ## Dependencies: Freewood-Core
 ## IconTexture: Interface\Icons\Ability_Hunter_BeastTaming
+## X-Wago-ID: nGv9m5Kx
 
 Locales.lua
 Pet.lua
