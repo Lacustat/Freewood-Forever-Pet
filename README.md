@@ -1,7 +1,7 @@
-# Freewood-Forever-Pet
+# Freewood-Pet
 
 **Deutsch & English · German & English.** Autor · Author: Lacustat. Version 0.3.2 · Interface 16001 (World of Warcraft: Forever).
-![PET](https://github.com/Lacustat/Freewood-OctoWoW-Bilder/blob/main/companion.jpg)
+
 ## Inhalt · Contents
 - [Deutsch](#deutsch)
 - [English](#english)
